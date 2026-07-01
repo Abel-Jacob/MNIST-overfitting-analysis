@@ -54,3 +54,15 @@ constraints achieved 1.17x with training-time regularization alone — no
 architectural changes required.
 
 ## Requirements
+pip install requirements.txt
+
+## Usage
+
+Open MNIST_Overfitting_Analysis.ipynb in Jupyter or Google Colab and run all cells. 
+A GPU is recommended (the notebook was developed on a Tesla T4 via Google Colab).
+
+## Environment
+
+- Python 3.10
+- PyTorch 2.11.0+cu128
+- Google Colab (Tesla T4 GPU)
