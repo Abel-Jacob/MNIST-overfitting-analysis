@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Open `MNIST_Overfitting_Analysis.ipynb` in Jupyter or Google Colab and run all cells. 
+Open `MNIST_Overfitting_Analysis_Updated_(3) (1).ipynb` in Jupyter or Google Colab and run all cells. 
 A GPU is recommended (the notebook was developed on a Tesla T4 via Google Colab).
 
 ## Environment
