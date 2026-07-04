@@ -93,3 +93,11 @@ pip install -r requirements.txt
 ## Usage
 Open the notebook in Jupyter or Google Colab and run all cells top to bottom.
 *(Update the filename below to match the actual `.ipynb` file in this repo.)*
+A GPU is recommended (the notebook was developed on a Tesla T4 via Google Colab).
+
+## Environment
+- Python 3.10
+- PyTorch 2.11.0+cu128
+- Google Colab (Tesla T4 GPU)
+Open the notebook in Jupyter or Google Colab and run all cells top to bottom.
+*(Update the filename below to match the actual `.ipynb` file in this repo.)*
